@@ -1079,7 +1079,7 @@ body {
 
 .booking-bottom {
     display: flex;
-    justify-content: space-between;
+    justify-content: end;
     align-items: flex-start;
     gap: 24px;
     width: 100%;
@@ -1089,7 +1089,7 @@ body {
     display: flex;
     align-items: flex-start;
     gap: 8px;
-    flex: 1;
+    /* flex: 1; */
 }
 
 .booking-checkbox {
